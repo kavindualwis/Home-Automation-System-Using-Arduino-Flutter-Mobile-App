@@ -17,7 +17,7 @@
 ## 📸 Hardware Preview
 
 <div align="center">
-  <img src="images/IMG_0391.JPEG" alt="Home Automation Hardware Setup" width="640" />
+  <img src="https://i.postimg.cc/tgLbjM8y/Prototype.jpg" alt="Home Automation Hardware Setup" width="640" />
 </div>
 
 ---
